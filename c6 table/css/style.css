@@ -10,17 +10,16 @@
 	height: 450px;
 	text-align: center;
 }
-.box {
-	width: 32.8%;
-	display: inline-block;
-	position: relative;
-	height: 44px;
-	vertical-align: middle;
-	margin-top: 5%;
+tr td {
+	height: 20px;
+}
+tr:nth-child(2) {
+	height: 410px;
 }
 .box {
+	width: 32.8%;
+	position: relative;
 	border-right: 1px solid #3366ff;
-	height: 85%;
 }
 .box:last-child {
 	border-right: none;
