@@ -9,9 +9,10 @@
 	width: 600px;
 	height: 450px;
 	text-align: center;
+	font-size: 0;
 }
 .box {
-	width: 32.8%;
+	width: 33.3%;
 	display: inline-block;
 	position: relative;
 	vertical-align: middle;
